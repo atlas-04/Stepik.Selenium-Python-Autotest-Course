@@ -1,0 +1,4 @@
+$ cat .gitignore
+*/.pytest_cache/
+*/__pycache__/
+*1.py
